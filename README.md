@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning M.E.R.N 
 - 💞️ I’m looking to collaborate on any coding/programming related work
 - 📫 How to reach me email (souvikdaw2000@gmail.com)
--                    mobile (+91 8910901595)
+- 📞 mobile (+91 8910901595)
