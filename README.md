@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souvik Daw</h1>
-<h3 align="center">Backend Developer | System Design Enthusiast | DevOps Learner</h3>
+<h3 align="center">Backend Developer | System Design Enthusiast | AI ML Learner</h3>
 
 ---
 
