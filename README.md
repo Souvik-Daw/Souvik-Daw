@@ -48,11 +48,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Souvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Souvik-Daw&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Daw&layout=compact&theme=tokyonight&cache_seconds=1800)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Souvik-Daw&theme=tokyonight)
 
 ---
