@@ -71,4 +71,4 @@ I'm especially interested in working on:
 - ☁️ Cloud-native & distributed systems  
 - 📊 Data-driven systems & ML pipelines  
 
-If you're building something ambitious — let's connect.
+If you're building something ambitious, let's connect.
